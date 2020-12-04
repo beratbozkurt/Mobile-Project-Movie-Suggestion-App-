@@ -2,4 +2,4 @@
 
 Sumo 
 
-We develop a movie suggester application which is aim to find movies easily. 
+We develop a movie suggester application whit Flutter language which is aim to find movies easily. 
