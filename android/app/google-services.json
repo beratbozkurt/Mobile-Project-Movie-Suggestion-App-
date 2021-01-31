@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1015292484996",
+    "project_id": "sumodemo-e7826",
+    "storage_bucket": "sumodemo-e7826.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015292484996:android:0698801d926f0b8f92d1d1",
+        "android_client_info": {
+          "package_name": "com.sumo.sumoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015292484996-flp8ou35bui4oobdvmiggpel963pog7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA_VbuhpquxLfHEI7ySIqOBxCZZzgRrsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015292484996-flp8ou35bui4oobdvmiggpel963pog7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
