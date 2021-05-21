@@ -14,4 +14,4 @@ We made that project for our Mobile Programming course.
 5-Connectivity Broadcast Receiver
 
 
-
+https://user-images.githubusercontent.com/56932734/119196092-5343b280-ba8e-11eb-8c30-a2d7bdf99b6b.mp4
